@@ -4,7 +4,7 @@ Avant une recherche :
 ![app][images][initial.png]
 
 Après une recherche : 
-![app][images][query.png]
+![images][query.png]
 
 Si il appuie sur recherche sans rien écrire :
-![app][images][no-query.png]
+![images][no-query.png]
