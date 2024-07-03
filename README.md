@@ -1,10 +1,10 @@
 Capture d'écran d'application Java avec une recherche de livre via l'API Books de Google
 
 Avant une recherche : 
-![app](images/initial.png)
+<img src="./images/initial.png" height="200px">
 
-Après une recherche : 
-![app](images/query.png)
+Après une recherche :
+<img src="./images/query.png" height="200px">
 
-Si il appuie sur recherche sans rien écrire :
-![app](images/no-query.png)
+Pas de terme de recherche :
+<img src="./images/no-query.png" height="200px">
